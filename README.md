@@ -1,5 +1,5 @@
 [![Release](https://img.shields.io/github/v/release/KaioHSG/photogimp-windows)](https://github.com/KaioHSG/photogimp-windows/releases/latest)
-[![PhotoGIMP release](https://img.shields.io/badge/photogimp_release-v1.1-blue)](https://github.com/Diolinux/PhotoGIMP/releases/1.1)
+[![PhotoGIMP release](https://img.shields.io/github/v/release/Diolinux/PhotoGIMP?label=photogimp%20release)](https://github.com/Diolinux/PhotoGIMP/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/KaioHSG/photogimp-windows/total)](https://github.com/KaioHSG/photogimp-windows/releases)
 
 # PhotoGIMP Windows
